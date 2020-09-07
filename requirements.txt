@@ -1,0 +1,9 @@
+sklearn=0.19.1
+json=2.0.9
+re=2.2.1
+pandas=0.23.0
+numpy=1.17.4
+xgboost-gpu
+cx-Oracle=7.2.3
+
+
